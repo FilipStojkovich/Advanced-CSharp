@@ -1,0 +1,17 @@
+C:\Users\Filip\Desktop\C# Advanced HW\Homework11\Homework11\bin\Debug\net6.0\Homework11.exe
+C:\Users\Filip\Desktop\C# Advanced HW\Homework11\Homework11\bin\Debug\net6.0\Homework11.deps.json
+C:\Users\Filip\Desktop\C# Advanced HW\Homework11\Homework11\bin\Debug\net6.0\Homework11.runtimeconfig.json
+C:\Users\Filip\Desktop\C# Advanced HW\Homework11\Homework11\bin\Debug\net6.0\Homework11.dll
+C:\Users\Filip\Desktop\C# Advanced HW\Homework11\Homework11\bin\Debug\net6.0\Homework11.pdb
+C:\Users\Filip\Desktop\C# Advanced HW\Homework11\Homework11\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Filip\Desktop\C# Advanced HW\Homework11\Homework11\obj\Debug\net6.0\Homework11.csproj.AssemblyReference.cache
+C:\Users\Filip\Desktop\C# Advanced HW\Homework11\Homework11\obj\Debug\net6.0\Homework11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\Desktop\C# Advanced HW\Homework11\Homework11\obj\Debug\net6.0\Homework11.AssemblyInfoInputs.cache
+C:\Users\Filip\Desktop\C# Advanced HW\Homework11\Homework11\obj\Debug\net6.0\Homework11.AssemblyInfo.cs
+C:\Users\Filip\Desktop\C# Advanced HW\Homework11\Homework11\obj\Debug\net6.0\Homework11.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\C# Advanced HW\Homework11\Homework11\obj\Debug\net6.0\Homework11.csproj.CopyComplete
+C:\Users\Filip\Desktop\C# Advanced HW\Homework11\Homework11\obj\Debug\net6.0\Homework11.dll
+C:\Users\Filip\Desktop\C# Advanced HW\Homework11\Homework11\obj\Debug\net6.0\refint\Homework11.dll
+C:\Users\Filip\Desktop\C# Advanced HW\Homework11\Homework11\obj\Debug\net6.0\Homework11.pdb
+C:\Users\Filip\Desktop\C# Advanced HW\Homework11\Homework11\obj\Debug\net6.0\Homework11.genruntimeconfig.cache
+C:\Users\Filip\Desktop\C# Advanced HW\Homework11\Homework11\obj\Debug\net6.0\ref\Homework11.dll
